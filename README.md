@@ -2,7 +2,7 @@
 
  
 
-:computer: I'm Mobile Developer!
+:iphone: :computer: I'm Mobile Developer!
 
 :house_with_garden: I’m from Brazil.
  
