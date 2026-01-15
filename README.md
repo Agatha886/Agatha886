@@ -1,6 +1,6 @@
 <div align="center" justify-content:"space-between">
   
-<h1 style="color:#ff69b4;">🌸 Hi! I'm Agatha Monfredini</h1>
+<h1  align="start" style="color:#ff69b4;">🌸 Hi! I'm Agatha Monfredini</h1>
 
 <img  width="47%" align="right"  src="https://github.com/Agatha886/Agatha886/blob/main/assets/avatar.png" />
 
