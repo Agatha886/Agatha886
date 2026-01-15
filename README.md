@@ -1,21 +1,58 @@
-# Welcome! I'm Agatha! 🌼 
 
- 
+<div style="display:flex; align-items:center; justify-content:space-between; gap:40px;">
+  <!-- LEFT SIDE: TEXT -->
+  <div style="flex:1;">
 
-:iphone: :computer: I'm Mobile Developer! 
+    <h1 style="color:#ff69b4;">🌸 Hi! I'm Agatha Monfredini</h1>
 
-:house_with_garden: I’m from Brazil.
- 
-:books: I’m currently learning everything.
+    <p>
+      💖 Android Developer<br>
+      📱 Kotlin | Android SDK<br>
+      🚀 Building scalable financial products
+    </p>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/agatha-monfredini-4777ab171/)
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> 
+    <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+      <img src="www.linkedin.com/in/agatha-monfredini-4777ab171"/>
+    </a>
+
+  </div>
+
+  <!-- RIGHT SIDE: AVATAR -->
+  <div style="flex-shrink:0;">
+    <img 
+      src="https://github.com/Agatha886/Agatha886/blob/main/assets/avatar.png"
+      width="180"
+    />
+  </div>
+
+</div>
+
+---
+
+<h2 style="color:#ff69b4;">🌸 About me</h2>
+
+I'm an **Android Developer** with a degree in **Systems Analysis and Development** and **4+ years of experience** building mobile applications using **Kotlin and Java**.
+
+I currently work on **strategic projects in the financial sector**, contributing to solutions related to **cards, credit, payments, Pix, and Open Finance**, always focusing on **code quality, performance, and scalability**.
+
+I have a collaborative profile, enjoy technical challenges, and continuously seek to improve my skills, following **mobile engineering best practices** and building products that deliver real business and user impact.
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,git,github" />
 
 
+<h2 style="color:#ff69b4;">🧠 Professional Experience</h2>
 
+<h3 style="color:#ffb6c1;">💼 Mid-level Systems Analyst — BRQ Digital Solutions</h3>
+📍 Allocated at Itaú Unibanco | Remote  
+🗓️ Jun 2024 — Present
 
+- Development and maintenance of Android applications using **Kotlin and Java**
+- Work on mission-critical financial systems
+- Implementation of **MVVM architecture**
+- Unit and UI tests (MockK, Mockito, Robolectric, Espresso)
 
+---
 
-
-
+<div align="center">
+✨ Thanks for visiting my profile ✨  
+</div>
