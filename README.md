@@ -1,22 +1,24 @@
-<div align="center">
-
-<img src="https://github.com/Agatha886/Agatha886/blob/main/assets/avatar.png" width="180" />
-
+<div align="center" justify-content:"space-between">
+  
 <h1 style="color:#ff69b4;">🌸 Hi! I'm Agatha Monfredini</h1>
 
-💖 Android Developer  
-📱 Kotlin | Android SDK  
-🚀 Building scalable financial products
+<img  width="47%" align="right"  src="https://github.com/Agatha886/Agatha886/blob/main/assets/avatar.png" />
 
-<a href="https://www.linkedin.com/in/agatha-monfredini-4777ab171/">
-  <img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<div align="left">
+  <p align="left" >💖 Android Developer</p>  
+  <p align="left" >📱 Kotlin | Android SDK</p>  
+  <p align="left" >🚀 Building scalable financial products</p>  
+  
+  <a href="https://www.linkedin.com/in/agatha-monfredini-4777ab171/">
+    <img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
 </div>
 
 ---
 
-<h2 style="color:#ff69b4;">🌸 About me</h2>
+### 🌸 About me
 
 I'm an **Android Developer** with a degree in **Systems Analysis and Development** and **4+ years of experience** building mobile applications using **Kotlin and Java**.
 
