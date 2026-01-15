@@ -8,7 +8,7 @@
 📱 Kotlin | Android SDK  
 🚀 Building scalable financial products
 
-<a href="www.linkedin.com/in/agatha-monfredini-4777ab171">
+<a href="https://www.linkedin.com/in/agatha-monfredini-4777ab171/">
   <img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
