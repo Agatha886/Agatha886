@@ -20,24 +20,28 @@
 
 I'm an **Android Developer** with a degree in **Systems Analysis and Development** and **4+ years of experience** building mobile applications using **Kotlin and Java**.
 
-I currently work on **strategic projects in the financial sector**, contributing to solutions related to **cards, credit, payments, Pix, and Open Finance**, always focusing on **code quality, performance, and scalability**.
-
 I have a collaborative profile, enjoy technical challenges, and continuously seek to improve my skills, following **mobile engineering best practices** and building products that deliver real business and user impact.
 
 <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,git,github" />
 
+<h3 style="color:#ff69b4; font-size:1.75em; font-weight:600;">
+🧠 How I work
+</h3>
 
-<h2 style="color:#ff69b4;">🧠 Professional Experience</h2>
+- I care deeply about **clean and readable code**
+- I value **tests** as part of development, not as an afterthought
+- I enjoy collaborating with **product, design, and backend teams**
+- I focus on building solutions that scale and deliver real user impact
 
-<h3 style="color:#ffb6c1;">💼 Mid-level Systems Analyst — BRQ Digital Solutions</h3>
-📍 Allocated at Itaú Unibanco | Remote  
-🗓️ Jun 2024 — Present
+<h3 style="color:#ff69b4; font-size:1.75em; font-weight:600;">
+🛠️ Tech stack highlights
+</h3>
 
-- Development and maintenance of Android applications using **Kotlin and Java**
-- Work on mission-critical financial systems
-- Implementation of **MVVM architecture**
-- Unit and UI tests (MockK, Mockito, Robolectric, Espresso)
-
+- Kotlin · Java
+- Android SDK · Jetpack · Compose
+- MVVM · Clean Architecture
+- Coroutines · LiveData
+- Unit & UI testing
 ---
 
 <div align="center">
