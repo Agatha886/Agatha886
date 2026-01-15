@@ -1,31 +1,18 @@
-<table>
-  <tr>
-    <td width="65%" valign="middle">
+<div align="center">
+
+<img src="https://github.com/Agatha886/Agatha886/blob/main/assets/avatar.png" width="180" />
 
 <h1 style="color:#ff69b4;">🌸 Hi! I'm Agatha Monfredini</h1>
 
-<p>
-💖 Android Developer<br>
-📱 Kotlin | Android SDK<br>
+💖 Android Developer  
+📱 Kotlin | Android SDK  
 🚀 Building scalable financial products
-</p>
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="www.linkedin.com/in/agatha-monfredini-4777ab171">
+  <img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-    </td>
-
-    <td width="35%" align="center">
-
-<img 
-  src="https://github.com/Agatha886/Agatha886/blob/main/assets/avatar.png"
-  width="180"
-/>
-
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
