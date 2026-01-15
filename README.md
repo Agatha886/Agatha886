@@ -4,15 +4,13 @@
 
 <img  width="47%" align="right"  src="https://github.com/Agatha886/Agatha886/blob/main/assets/avatar.png" />
 
-<div align="left">
-  <p align="left" >💖 Android Developer</p>  
-  <p align="left" >📱 Kotlin | Android SDK</p>  
-  <p align="left" >🚀 Building scalable financial products</p>  
+ <p align="center" >💖 Android Developer</p>  
+  <p align="center" >📱 Kotlin | Android SDK</p>  
+  <p align="center" >🚀 Building scalable financial products</p>  
   
-  <a href="https://www.linkedin.com/in/agatha-monfredini-4777ab171/">
+  <a align="center" href="https://www.linkedin.com/in/agatha-monfredini-4777ab171/">
     <img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div>
 
 </div>
 
