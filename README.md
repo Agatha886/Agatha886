@@ -1,31 +1,31 @@
+<table>
+  <tr>
+    <td width="65%" valign="middle">
 
-<div style="display:flex; align-items:center; justify-content:space-between; gap:40px;">
-  <!-- LEFT SIDE: TEXT -->
-  <div style="flex:1;">
+<h1 style="color:#ff69b4;">🌸 Hi! I'm Agatha Monfredini</h1>
 
-    <h1 style="color:#ff69b4;">🌸 Hi! I'm Agatha Monfredini</h1>
+<p>
+💖 Android Developer<br>
+📱 Kotlin | Android SDK<br>
+🚀 Building scalable financial products
+</p>
 
-    <p>
-      💖 Android Developer<br>
-      📱 Kotlin | Android SDK<br>
-      🚀 Building scalable financial products
-    </p>
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-    <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-      <img src="www.linkedin.com/in/agatha-monfredini-4777ab171"/>
-    </a>
+    </td>
 
-  </div>
+    <td width="35%" align="center">
 
-  <!-- RIGHT SIDE: AVATAR -->
-  <div style="flex-shrink:0;">
-    <img 
-      src="https://github.com/Agatha886/Agatha886/blob/main/assets/avatar.png"
-      width="180"
-    />
-  </div>
+<img 
+  src="https://github.com/Agatha886/Agatha886/blob/main/assets/avatar.png"
+  width="180"
+/>
 
-</div>
+    </td>
+  </tr>
+</table>
 
 ---
 
